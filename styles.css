@@ -1,0 +1,39 @@
+@import url("/.there-be-dragons/global.css");
+.headline {
+  background-color:red;
+  color:white;
+  font-family: "LaBelleAurore";
+}
+
+.flipcard {
+  transform: rotateY(180deg);
+}
+
+.card {
+  font-family: "krub";
+
+}
+
+.heading {
+  text-align: center;
+}
+
+.name {
+  font-family: "LaBelleAurore";
+  font-size: 32px; 
+  text-align: center;
+}
+
+.back {
+  box-shadow: 2px 11px 26px 2px rgba(17,17,26,0.12);
+}
+
+.paragraph {
+  text-align: center;
+}
+
+.list {
+  text-align: center;
+  list-style: none;
+  padding: 0;
+}
